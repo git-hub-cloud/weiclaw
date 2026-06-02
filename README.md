@@ -2,6 +2,8 @@
 
 [English](#english) | [中文](#中文)
 
+https://github.com/user-attachments/assets/2921878d-a9d0-4cb4-98d1-549c9e894fc8
+
 ---
 
 <a name="english"></a>
@@ -50,8 +52,6 @@ WeiClaw 是连接 Agent 与电脑的智能硬件。通过实时监测 Agent 状�
 
 ### 赞赏支持
 *   **赞赏 19 美元档:** 回赠 WeiClaw 硬件 ×1 [使用 PayPal 赞赏](https://paypal.me/jiqianghu/19USD)
-
-https://github.com/user-attachments/assets/2921878d-a9d0-4cb4-98d1-549c9e894fc8
 
 ---
 © 2026 WeiClaw - Work On Demand.
