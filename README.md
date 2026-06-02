@@ -51,12 +51,7 @@ WeiClaw 是连接 Agent 与电脑的智能硬件。通过实时监测 Agent 状�
 ### 赞赏支持
 *   **赞赏 19 美元档:** 回赠 WeiClaw 硬件 ×1 [使用 PayPal 赞赏](https://paypal.me/jiqianghu/19USD)
 
-<p align="center">
-  <a href="https://x.com/jiqianghu/status/2059965567466099085" target="_blank">
-    <img src="https://github.com/git-hub-cloud/weiclaw/blob/gh-pages/images/video_img.jpg"
-      style="width: 30%; border-radius: 16px; border: 1px solid var(--color-border-subtle); box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5); background: #000;">
-  </a>
-</p>
+https://github.com/user-attachments/assets/2921878d-a9d0-4cb4-98d1-549c9e894fc8
 
 ---
 © 2026 WeiClaw - Work On Demand.
