@@ -2,7 +2,7 @@
 
 [English](#english) | [中文](#中文)
 
-https://github.com/user-attachments/assets/2921878d-a9d0-4cb4-98d1-549c9e894fc8
+https://github.com/user-attachments/assets/47742c8b-09e7-481e-9f05-ebeca27cb0d2
 
 ---
 
