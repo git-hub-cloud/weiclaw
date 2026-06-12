@@ -39,11 +39,11 @@
     
     main { padding-top: 64px; }
     
-    .hero { padding: 120px 0 80px; text-align: center; }
+    .hero { padding: 120px 0 80px; text-align: center; background: #07080b; }
     .hero-logo { height: 80px; margin-bottom: 24px; }
     .hero .slogan { font-size: 1.5rem; color: var(--color-text-secondary); margin-bottom: 40px; }
     
-    .features { padding: 80px 0; }
+    .features { padding: 80px 0; background: #0f1117; }
     .section-title { font-size: 2rem; font-weight: 600; margin-bottom: 48px; text-align: center; }
     .features-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
     @media (max-width: 768px) { .features-grid { grid-template-columns: 1fr; } }
@@ -52,16 +52,19 @@
     .feature-card h3 { font-size: 1.125rem; font-weight: 600; margin-bottom: 12px; color: var(--color-text-primary); }
     .feature-card p { font-size: 0.9375rem; color: var(--color-text-secondary); line-height: 1.7; }
     
-    .scenarios { padding: 80px 0; background: var(--color-bg-surface); }
+    .scenarios { padding: 80px 0; background: #171921; }
     .scenarios-content { text-align: center; }
     .scenarios-content p { font-size: 1.125rem; color: var(--color-text-secondary); max-width: 800px; margin: 0 auto; line-height: 1.8; }
     
-    .architecture { padding: 80px 0; }
+    .architecture { padding: 80px 0; background: #0b0d13; }
     .arch-diagram { display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap; margin-top: 32px; }
     .arch-node { background: var(--color-bg-card); border: 1px solid var(--color-border-subtle); border-radius: 12px; padding: 16px 24px; font-weight: 500; }
     .arch-arrow { color: var(--color-accent); font-size: 1.5rem; }
     
-    .contact { padding: 80px 0; text-align: center; }
+    .demo { padding: 80px 0; background: #1e2029; text-align: center; }
+    .demo video { max-width: 100%; width: 360px; border-radius: 16px; border: 1px solid var(--color-border-subtle); box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5); background: #000; }
+    
+    .contact { padding: 80px 0; text-align: center; background: #14161e; }
     .contact a { color: var(--color-accent); text-decoration: none; font-size: 1.125rem; }
     .contact a:hover { text-decoration: underline; }
     
@@ -192,27 +195,25 @@ var _hmt = _hmt || [];
           <span class="arch-node" data-lang="en">Message Takeover</span>
           <span class="arch-node" data-lang="zh">消息接管</span>
         </div>
-        <div style="margin-top: 48px; display: flex; justify-content: center;">
-          <video
-            src="https://github.com/user-attachments/assets/47742c8b-09e7-481e-9f05-ebeca27cb0d2"
-            controls
-            autoplay
-            muted
-            loop
-            playsinline
-            style="
-              width: 30%;
-              border-radius: 16px;
-              border: 1px solid var(--color-border-subtle);
-              box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
-              background: #000;
-            "
-          ></video>
-        </div>
       </div>
     </section>
     
-    <section class="contact" style="background: var(--color-bg-surface);">
+    <section class="demo">
+      <div class="container">
+        <h2 class="section-title" data-lang="en">Demo</h2>
+        <h2 class="section-title" data-lang="zh">演示</h2>
+        <video
+          src="https://github.com/user-attachments/assets/47742c8b-09e7-481e-9f05-ebeca27cb0d2"
+          controls
+          autoplay
+          muted
+          loop
+          playsinline
+        ></video>
+      </div>
+    </section>
+    
+    <section class="contact">
       <div class="container">
         <div data-lang="en">
           <h2 class="section-title">Product Purchase</h2>
