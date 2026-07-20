@@ -24,10 +24,6 @@ Gain control over the Agent anytime, anywhere. It can be flexibly deployed on bo
 *   **WeiClaw Project Site:** [WeiClaw](https://git-hub-cloud.github.io/weiclaw/)
 *   **Contact Email:** jiqiang.hu#qq.com
 
-### Product Purchase
-*   [Buy on Taobao](https://item.taobao.com/item.htm?ft=t&id=1059194476130)
-
-
 ---
 
 <a name="中文"></a>
@@ -47,9 +43,6 @@ WeiClaw 是连接 Agent 与电脑的智能硬件。通过实时监测 Agent 状�
 ### 如何开始
 *   **WeiClaw 官网:** [WeiClaw](https://git-hub-cloud.github.io/weiclaw/)
 *   **联系邮箱:** jiqiang.hu#qq.com
-
-### 产品购买
-*   [使用淘宝购买](https://item.taobao.com/item.htm?ft=t&id=1059194476130)
 
 ---
 © 2026 WeiClaw - Work On Demand.
